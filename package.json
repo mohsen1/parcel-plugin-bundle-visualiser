@@ -19,7 +19,7 @@
     "preview": "NODE_ENV=production node ./preview/index.js --visualise"
   },
   "dependencies": {
-    "filesize": "^3.6.0",
+    "filesize": "^3.6.1",
     "gzip-size": "^4.1.0",
     "yargs": "^11.0.0"
   },
